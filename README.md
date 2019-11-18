@@ -7,7 +7,7 @@ This repository serves as an overview of all projects related to the literature 
 - [CM001](/src/macros/cm001.md) ShowLoadedAddons
 - [CM002](/src/macros/cm002.md) ShowPDFNetVersion
 
-## Add-ons
+## Addons
 
 - [CA001]() HideKnowledgeItemTextFormHelpBoxAddon
 - [CA002]() HideKnowledgeItemFileFormHelpBoxAddon
@@ -26,8 +26,8 @@ This repository serves as an overview of all projects related to the literature 
 ## FAQ
 
 - [How do I use a macro?](/docs/faq.md#how-do-i-install-an-add-on)
-- [How do I install an add-on?](/docs/faq.md#how-do-i-install-an-add-on)
-- [Is there any cost associated with using macros or add-ons?](/docs/faq.md#is-there-any-cost-associated-with-using-macros-or-add-ons)
+- [How do I install an addon?](/docs/faq.md#how-do-i-install-an-addon)
+- [Is there any cost associated with using macros or addons?](/docs/faq.md#is-there-any-cost-associated-with-using-macros-or-addons)
 
 ## Disclaimer
 
