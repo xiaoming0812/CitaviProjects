@@ -9,19 +9,19 @@ This repository serves as an overview of all projects related to the literature 
 
 ## Addons
 
-- [CA001]() HideKnowledgeItemTextFormHelpBoxAddon
-- [CA002]() HideKnowledgeItemFileFormHelpBoxAddon
-- [CA003]() AddCitaviProjectToRecentListAddon
-- [CA004]() PDFSplitAddon
-- [CA005]() GoToPdfPageAddon
-- [CA006]() DocFetcherSelectionAddon
-- [CA007]() SynchronizeFiltersWithFullscreenPreviewAddon
-- [CA008]() OpenWithAddon
-- [CA009]() PDFThumbnailAddon
-- [CA010]() KnownProjectsCleanerAddon
-- [CA011]() SetPDFSelectionAsAddon
-- [CA012]() JumpToLastPositionAfterActionExecutionAddon
-- [CA013]() CopyTextOfSelectedAnnotationAddon
+- [CA001](https://github.com/lutz/hideknowledgeitemtextformhelpboxaddon) HideKnowledgeItemTextFormHelpBoxAddon
+- [CA002](https://github.com/lutz/hideknowledgeitemfileformhelpboxaddon) HideKnowledgeItemFileFormHelpBoxAddon
+- [CA003](https://github.com/lutz/addcitaviprojecttorecentlistaddon) AddCitaviProjectToRecentListAddon
+- [CA004](https://github.com/lutz/pdfsplitaddon) PDFSplitAddon
+- [CA005](https://github.com/lutz/gotopdfpageaddon) GoToPdfPageAddon
+- [CA006](https://github.com/lutz/docfetcherselectionaddon) DocFetcherSelectionAddon
+- [CA007](https://github.com/lutz/synchronizefilterswithfullscreenpreviewaddon) SynchronizeFiltersWithFullscreenPreviewAddon
+- [CA008](https://github.com/lutz/openwithaddon) OpenWithAddon
+- [CA009](https://github.com/lutz/pdfthumbnailaddon) PDFThumbnailAddon
+- [CA010](https://github.com/lutz/knownprojectscleaneraddon) KnownProjectsCleanerAddon
+- [CA011](https://github.com/lutz/setpdfselectionasaddon) SetPDFSelectionAsAddon
+- [CA012](https://github.com/lutz/jumptolastpositionafteractionexecutionaddon) JumpToLastPositionAfterActionExecutionAddon
+- [CA013](https://github.com/lutz/copytextofselectedannotationaddon) CopyTextOfSelectedAnnotationAddon
 
 ## FAQ
 
@@ -44,7 +44,6 @@ This repository serves as an overview of all projects related to the literature 
 ### Is there any cost associated with using macros or addons?
 
 You may freely use, modify and distribute the macros and addons available here for any purpose or cost. Please note only the license terms under which these macros and addons are published.
-
 
 ## Disclaimer
 
