@@ -1,4 +1,4 @@
-# Overview about my Citavi projects
+# Citavi projects
 
 This repository serves as an overview of all projects related to the literature management software Citavi.  My work is divided into macros I use to quickly read information and useful tools in form of addons.
 
