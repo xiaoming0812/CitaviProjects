@@ -27,7 +27,7 @@ This repository serves as an overview of all projects related to the literature 
 
 - [How do I use a macro?](/docs/faq.md#how-do-i-install-an-add-on)
 - [How do I install an add-on?](/docs/faq.md#how-do-i-install-an-add-on)
-- [Is there any cost associated with using macros or add-ons?](/docs/faq,md#is-there-any-cost-associated-with-using-macros-or-add-ons)
+- [Is there any cost associated with using macros or add-ons?](/docs/faq.md#is-there-any-cost-associated-with-using-macros-or-add-ons)
 
 ## Disclaimer
 
