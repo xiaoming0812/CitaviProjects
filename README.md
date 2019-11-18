@@ -9,19 +9,19 @@ This repository serves as an overview of all projects related to the literature 
 
 ## Addons
 
-- [CA001](https://github.com/lutz/hideknowledgeitemtextformhelpboxaddon) HideKnowledgeItemTextFormHelpBoxAddon
-- [CA002](https://github.com/lutz/hideknowledgeitemfileformhelpboxaddon) HideKnowledgeItemFileFormHelpBoxAddon
-- [CA003](https://github.com/lutz/addcitaviprojecttorecentlistaddon) AddCitaviProjectToRecentListAddon
-- [CA004](https://github.com/lutz/pdfsplitaddon) PDFSplitAddon
-- [CA005](https://github.com/lutz/gotopdfpageaddon) GoToPdfPageAddon
-- [CA006](https://github.com/lutz/docfetcherselectionaddon) DocFetcherSelectionAddon
-- [CA007](https://github.com/lutz/synchronizefilterswithfullscreenpreviewaddon) SynchronizeFiltersWithFullscreenPreviewAddon
-- [CA008](https://github.com/lutz/openwithaddon) OpenWithAddon
-- [CA009](https://github.com/lutz/pdfthumbnailaddon) PDFThumbnailAddon
-- [CA010](https://github.com/lutz/knownprojectscleaneraddon) KnownProjectsCleanerAddon
-- [CA011](https://github.com/lutz/setpdfselectionasaddon) SetPDFSelectionAsAddon
-- [CA012](https://github.com/lutz/jumptolastpositionafteractionexecutionaddon) JumpToLastPositionAfterActionExecutionAddon
-- [CA013](https://github.com/lutz/copytextofselectedannotationaddon) CopyTextOfSelectedAnnotationAddon
+- [CA001](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon) HideKnowledgeItemTextFormHelpBoxAddon
+- [CA002](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon) HideKnowledgeItemFileFormHelpBoxAddon
+- [CA003](https://github.com/lutz/AddCitaviProjectToRecentListAddon) AddCitaviProjectToRecentListAddon
+- [CA004](https://github.com/lutz/PDFSplitAddon) PDFSplitAddon
+- [CA005](https://github.com/lutz/GoToPdfPageAddon) GoToPdfPageAddon
+- [CA006](https://github.com/lutz/DocFetcherSelectionAddon) DocFetcherSelectionAddon
+- [CA007](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon) SynchronizeFiltersWithFullscreenPreviewAddon
+- [CA008](https://github.com/lutz/OpenWithAddon) OpenWithAddon
+- [CA009](https://github.com/lutz/PDFThumbnailAddon) PDFThumbnailAddon
+- [CA010](https://github.com/lutz/KnownProjectsCleanerAddon) KnownProjectsCleanerAddon
+- [CA011](https://github.com/lutz/SetPDFSelectionAsAddon) SetPDFSelectionAsAddon
+- [CA012](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon) JumpToLastPositionAfterActionExecutionAddon
+- [CA013](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon) CopyTextOfSelectedAnnotationAddon
 
 ## FAQ
 
