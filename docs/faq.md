@@ -18,4 +18,4 @@
 
 ## Is there any cost associated with using macros or addons?
 
-You may freely use, modify and distribute the macros and add-ons available here for any purpose or cost. Please note only the license terms under which these macros and add-ons are published.
+You may freely use, modify and distribute the macros and addons available here for any purpose or cost. Please note only the license terms under which these macros and addons are published.
