@@ -4,8 +4,8 @@ This repository serves as an overview of all projects related to the literature 
 
 ## Macros
 
-- [ShowLoadedAddonsMacro](/src/macros/cm001.md)
-- [ShowPDFNetVersionMacro](/src/macros/cm002.md)
+- [ShowLoadedAddonsMacro](/macros/cm001.md)
+- [ShowPDFNetVersionMacro](/macros/cm002.md)
 
 ## Addons
 
