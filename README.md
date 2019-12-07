@@ -9,19 +9,19 @@ This repository serves as an overview of all projects related to the literature 
 
 ## Addons
 
-- [CA001](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon) HideKnowledgeItemTextFormHelpBoxAddon
-- [CA002](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon) HideKnowledgeItemFileFormHelpBoxAddon
-- [CA003](https://github.com/lutz/AddCitaviProjectToRecentListAddon) AddCitaviProjectToRecentListAddon
-- [CA004](https://github.com/lutz/PDFSplitAddon) PDFSplitAddon
-- [CA005](https://github.com/lutz/GoToPdfPageAddon) GoToPdfPageAddon
-- [CA006](https://github.com/lutz/DocFetcherSelectionAddon) DocFetcherSelectionAddon
-- [CA007](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon) SynchronizeFiltersWithFullscreenPreviewAddon
-- [CA008](https://github.com/lutz/OpenWithAddon) OpenWithAddon
-- [CA009](https://github.com/lutz/PDFThumbnailAddon) PDFThumbnailAddon
-- [CA010](https://github.com/lutz/KnownProjectsCleanerAddon) KnownProjectsCleanerAddon
-- [CA011](https://github.com/lutz/SetPDFSelectionAsAddon) SetPDFSelectionAsAddon
-- [CA012](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon) JumpToLastPositionAfterActionExecutionAddon
-- [CA013](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon) CopyTextOfSelectedAnnotationAddon
+- [HideKnowledgeItemTextFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon)
+- [HideKnowledgeItemFileFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon)
+- [AddCitaviProjectToRecentListAddon](https://github.com/lutz/AddCitaviProjectToRecentListAddon)
+- [PDFSplitAddon](https://github.com/lutz/PDFSplitAddon)
+- [GoToPdfPageAddon](https://github.com/lutz/GoToPdfPageAddon)
+- [DocFetcherSelectionAddon](https://github.com/lutz/DocFetcherSelectionAddon)
+- [SynchronizeFiltersWithFullscreenPreviewAddon](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon)
+- [OpenWithAddon](https://github.com/lutz/OpenWithAddon)
+- [PDFThumbnailAddon](https://github.com/lutz/PDFThumbnailAddon)
+- [KnownProjectsCleanerAddon](https://github.com/lutz/KnownProjectsCleanerAddon)
+- [SetPDFSelectionAsAddon](https://github.com/lutz/SetPDFSelectionAsAddon)
+- [JumpToLastPositionAfterActionExecutionAddon](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon)
+- [CopyTextOfSelectedAnnotationAddon](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon)
 
 ## FAQ
 
@@ -48,3 +48,7 @@ You may freely use, modify and distribute the macros and addons available here f
 ## Disclaimer
 
 >There are no support claims by the company **Swiss Academic Software GmbH**, the provider of **Citavi** or other liability claims for problems or data loss. Any use is at your own risk. All rights to the name **Citavi** and any logos used are owned by **Swiss Academic Software GmbH**.
+
+## License
+
+This project is licensed under the [MIT](LICENSE) License
