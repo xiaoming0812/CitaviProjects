@@ -22,6 +22,7 @@ This repository serves as an overview of all projects related to the literature 
 - [SetPDFSelectionAsAddon](https://github.com/lutz/SetPDFSelectionAsAddon)
 - [JumpToLastPositionAfterActionExecutionAddon](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon)
 - [CopyTextOfSelectedAnnotationAddon](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon)
+- [FormatCodeAddon](https://github.com/lutz/FormatCodeAddon)
 
 ## FAQ
 
