@@ -49,7 +49,7 @@ You may freely use, modify and distribute the macros and addons available here f
 
 ### I want develop my own addon. How can i find material?
 
-There is no official documentation or instructions for programming Citavi add-ons. The first way should be via the old German tutorial on Citavi 3 add-ons, which can be found in the [wiki](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources/wiki) of the public [Citavi 6 add-on repository](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources). Although this is an old tutorial, the basic principles are the same. In addition, there are several examples of add-ons, whose source code gives a first overview. Also my add-ons published [here](https://github.com/lutz/CitaviProjects) can be viewed and developed further.   
+There is no official documentation or instructions for programming Citavi add-ons. The first way should be via the old German tutorial on Citavi 3 add-ons, which can be found in the [wiki](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources/wiki) of the public [Citavi 6 add-on repository](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources). Although this is an old tutorial, the basic principles are the same. In addition, there are several examples of add-ons, whose source code gives a first overview. Also my add-ons published [here](https://github.com/lutz/CitaviProjects#addons) can be viewed and developed further.   
 
 ## Disclaimer
 
