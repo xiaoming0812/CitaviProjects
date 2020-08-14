@@ -9,21 +9,21 @@ This repository serves as an overview of all projects related to the literature 
 
 ## Addons
 
-- [HideKnowledgeItemTextFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon)
-- [HideKnowledgeItemFileFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon)
 - [AddCitaviProjectToRecentListAddon](https://github.com/lutz/AddCitaviProjectToRecentListAddon)
-- [PDFSplitAddon](https://github.com/lutz/PDFSplitAddon)
-- [GoToPdfPageAddon](https://github.com/lutz/GoToPdfPageAddon)
-- [DocFetcherSelectionAddon](https://github.com/lutz/DocFetcherSelectionAddon)
-- [SynchronizeFiltersWithFullscreenPreviewAddon](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon)
-- [OpenWithAddon](https://github.com/lutz/OpenWithAddon)
-- [PDFThumbnailAddon](https://github.com/lutz/PDFThumbnailAddon)
-- [KnownProjectsCleanerAddon](https://github.com/lutz/KnownProjectsCleanerAddon)
-- [SetPDFSelectionAsAddon](https://github.com/lutz/SetPDFSelectionAsAddon)
-- [JumpToLastPositionAfterActionExecutionAddon](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon)
-- [CopyTextOfSelectedAnnotationAddon](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon)
-- [FormatCodeAddon](https://github.com/lutz/FormatCodeAddon)
 - [AutoRefAddon](https://github.com/lutz/AutoRefAddon)
+- [CopyTextOfSelectedAnnotationAddon](https://github.com/lutz/CopyTextOfSelectedAnnotationAddon)
+- [DocFetcherSelectionAddon](https://github.com/lutz/DocFetcherSelectionAddon)
+- [FormatCodeAddon](https://github.com/lutz/FormatCodeAddon)
+- [GoToPdfPageAddon](https://github.com/lutz/GoToPdfPageAddon)
+- [HideKnowledgeItemFileFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemFileFormHelpBoxAddon)
+- [HideKnowledgeItemTextFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon)
+- [JumpToLastPositionAfterActionExecutionAddon](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon)
+- [KnownProjectsCleanerAddon](https://github.com/lutz/KnownProjectsCleanerAddon)
+- [OpenWithAddon](https://github.com/lutz/OpenWithAddon)
+- [PDFSplitAddon](https://github.com/lutz/PDFSplitAddon)
+- [PDFThumbnailAddon](https://github.com/lutz/PDFThumbnailAddon)
+- [SetPDFSelectionAsAddon](https://github.com/lutz/SetPDFSelectionAsAddon)
+- [SynchronizeFiltersWithFullscreenPreviewAddon](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon)
 
 ## FAQ
 
