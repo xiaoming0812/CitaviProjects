@@ -53,7 +53,7 @@ There is no official documentation or instructions for programming Citavi add-on
 
 ### Is there a way to develop an addon for unsupported form?
 
-Currently the official Citavi addon api supports some kind of citavi forms but not all. So i have developed a extended version if Citavi's `CitaviAddOn` class you will find [here](https://github.com/lutz/CitaviAddOnEx). 
+Currently the official Citavi addon api supports some kind of citavi forms but not all. So i have developed a extended version of the `CitaviAddOn` class. More informations you will find [here](https://github.com/lutz/CitaviAddOnEx). 
 
 ## Disclaimer
 
