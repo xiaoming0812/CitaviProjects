@@ -51,6 +51,10 @@ You may freely use, modify and distribute the macros and addons available here f
 
 There is no official documentation or instructions for programming Citavi add-ons. The first way should be via the old German tutorial on Citavi 3 add-ons, which can be found in the [wiki](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources/wiki) of the public [Citavi 6 add-on repository](https://github.com/Citavi/C6-Add-Ons-and-Online-Sources). Although this is an old tutorial, the basic principles are the same. In addition, there are several examples of add-ons, whose source code gives a first overview. Also my add-ons published [here](https://github.com/lutz/CitaviProjects#addons) can be viewed and developed further.   
 
+### Is there a way to develop an addon for unsupported form?
+
+Currently the official Citavi addon api supports some kind of citavi forms but not all. So i have developed a extended version if Citavi's `CitaviAddOn` class you will find [here](https://github.com/lutz/CitaviAddOnEx). 
+
 ## Disclaimer
 
 >There are no support claims by the company **Swiss Academic Software GmbH**, the provider of **Citavi** or other liability claims for problems or data loss. Any use is at your own risk. All rights to the name **Citavi** and any logos used are owned by **Swiss Academic Software GmbH**.
