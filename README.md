@@ -30,7 +30,7 @@ This repository serves as an overview of all projects related to the literature 
 ### How do I use a macro?
 
 1. Start Citavi.
-2. Open the macro editor (_Tools > Macro Editor..._)
+2. Open the macro editor ([Citavi]: Tools > Macro Editor... or <kbd>ALT</kbd>+<kbd>F11</kbd>)
 3. Remove the template code and paste the macro code.
 4. Press the **Compile** button.
 5. If no errors showed in the error list, press the **Run** button
