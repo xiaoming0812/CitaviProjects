@@ -19,6 +19,7 @@ This repository serves as an overview of all projects related to the literature 
 - [HideKnowledgeItemTextFormHelpBoxAddon](https://github.com/lutz/HideKnowledgeItemTextFormHelpBoxAddon)
 - [JumpToLastPositionAfterActionExecutionAddon](https://github.com/lutz/JumpToLastPositionAfterActionExecutionAddon)
 - [KnownProjectsCleanerAddon](https://github.com/lutz/KnownProjectsCleanerAddon)
+- [OpenFormsCenteredToParentAddon](https://github.com/lutz/OpenFormsCenteredToParentAddon)
 - [OpenWithAddon](https://github.com/lutz/OpenWithAddon)
 - [PDFSplitAddon](https://github.com/lutz/PDFSplitAddon)
 - [PDFThumbnailAddon](https://github.com/lutz/PDFThumbnailAddon)
