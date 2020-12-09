@@ -62,7 +62,7 @@ Currently the official Citavi addon api supports some kind of citavi forms but n
 
 ### Is it possible to call `async` methods in macros?
 
-Absolutely yes. To use `async` and `await` the modern way of asynchronous developing you can change the return value of the `Main` method to `Task` and add the function word `async`to the signature. If you want consistently in naming you can use `MainAsync` instead of `Main`. There is one aspect to consider. If you use asynchronous methods the gui is not blocked anymore (in general not everytime :sweat_smile:). So in this case it could be helpfull to show a progress dialog to avoid user handling. Citavi is shipped with a huge customizable dialog for this use case called `GenericProgressDialog`. An example macro you will find [here](https://github.com/lutz/CitaviProjects/blob/master/macros/cme001.cs) with some comments.
+Absolutely yes. To use `async` and `await` the modern way of asynchronous developing you can change the return value of the `Main` method to `Task` and add the function word `async`to the signature. If you want consistently in naming you can use `MainAsync` instead of `Main`. There is one aspect to consider. If you use asynchronous methods the gui is not blocked anymore (in general not everytime :sweat_smile:). So in this case it could be helpfull to show a progress dialog to avoid user handling. Citavi is shipped with a huge customizable dialog for this use case called `GenericProgressDialog`. An example macro you will find [here](https://github.com/lutz/CitaviProjects/blob/master/snippets/cme001.cs) with some comments.
 
 ## Disclaimer
 
