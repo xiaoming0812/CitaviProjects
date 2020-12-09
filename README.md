@@ -2,6 +2,10 @@
 
 This repository serves as an overview of all projects related to the literature management software Citavi. My work is divided into macros I use to quickly read information and useful tools in form of addons.
 
+## Ideas & Problems
+
+If you have problems feel free to open an issue in the corresponding repository. For a idea you can use the new GitHub feature called [**Discussions**](https://github.com/lutz/CitaviProjects/discussions).
+
 ## Macros
 
 - [ShowLoadedAddonsMacro](/macros/cm001.md)
