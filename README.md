@@ -27,6 +27,7 @@ If you have problems feel free to open an issue in the corresponding repository.
 - [OpenWithAddon](https://github.com/lutz/OpenWithAddon)
 - [PDFSplitAddon](https://github.com/lutz/PDFSplitAddon)
 - [PDFThumbnailAddon](https://github.com/lutz/PDFThumbnailAddon)
+- [RemoveLocalProjectAddon](https://github.com/lutz/RemoveLocalProjectAddon)
 - [SetPDFSelectionAsAddon](https://github.com/lutz/SetPDFSelectionAsAddon)
 - [SynchronizeFiltersWithFullscreenPreviewAddon](https://github.com/lutz/SynchronizeFiltersWithFullscreenPreviewAddon)
 
